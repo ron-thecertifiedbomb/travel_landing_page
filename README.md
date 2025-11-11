@@ -15,8 +15,3 @@ It is designed to help **travel agencies, tour operators, or travel bloggers** h
 - **Interactive UI Elements:** Buttons, hover effects, and smooth navigation for a modern feel.
 - **Lightweight & Fast:** Built with HTML and CSS for quick load times.
 
-## How It Works
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Godson2611/Travel-landing-page.git
